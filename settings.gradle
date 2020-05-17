@@ -1,0 +1,2 @@
+include ':tdktxgen'
+rootProject.name='Telegram Api Extension Generator'
